@@ -34,3 +34,11 @@ This Streamlit Interactive Dashboard is open-source software licensed under the 
 Built with Streamlit, making data exploration and visualization accessible.
 Inspired by the need for user-friendly tools for data analysis and visualization.
 Explore and enjoy the interactive dashboard!
+
+# Screenshots:
+
+![streammmmm](https://github.com/kirankumari987/Streamlit-Intractive-DashBoard/assets/141491101/4469d224-b676-4f88-8dd6-a7412fcf38aa)
+
+![straennn](https://github.com/kirankumari987/Streamlit-Intractive-DashBoard/assets/141491101/fe92f77a-5440-4a61-a2f6-18d7ab135726)
+
+![stream](https://github.com/kirankumari987/Streamlit-Intractive-DashBoard/assets/141491101/5bc3a982-82c6-4b39-b3c8-8e84edd217dd)
